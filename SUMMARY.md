@@ -1,6 +1,7 @@
 # Table of contents
 
 * [PRESENTAZIONE](README.md)
+* [FAQ](faq.md)
 
 ## PRIMO LIVELLO <a id="primo-livello-1"></a>
 
