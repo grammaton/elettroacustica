@@ -1,2 +1,2 @@
-# Stereofonia: Modelli Matematici
+# Stereofonia: Modello Matematico
 

@@ -9,7 +9,7 @@
   * [Trasduzione](primo-livello-1/101/trasduzione.md)
   * [Stereofonia](primo-livello-1/101/stereofonia.md)
 * [102](primo-livello-1/102/README.md)
-  * [Stereofonia: Modelli Matematici](primo-livello-1/102/stereofonia-modelli-matematici.md)
+  * [Stereofonia: Modello Matematico](primo-livello-1/102/stereofonia-modelli-matematici.md)
 * [103](primo-livello-1/103.md)
 
 ## SECONDO LIVELLO <a id="secondo-livello-1"></a>
