@@ -9,6 +9,7 @@
   * [Fenomeni](primo-livello-1/101/fenomeni/README.md)
     * [Oscillazioni](primo-livello-1/101/fenomeni/oscillazioni.md)
     * [Grandezze](primo-livello-1/101/fenomeni/grandezze.md)
+    * [Oscillazione Sinusoidale](primo-livello-1/101/fenomeni/oscillazione-sinusoidale.md)
   * [Suono](primo-livello-1/101/suono.md)
   * [Segnale](primo-livello-1/101/segnale.md)
   * [Catena Elettroacustica](primo-livello-1/101/catena-elettroacustica.md)
