@@ -6,7 +6,7 @@
 ## PRIMO LIVELLO <a id="primo-livello-1"></a>
 
 * [101](primo-livello-1/101/README.md)
-  * [Suono](primo-livello-1/101/il-suono.md)
+  * [Suono](primo-livello-1/101/suono.md)
   * [Segnale](primo-livello-1/101/segnale.md)
   * [Catena Elettroacustica](primo-livello-1/101/catena-elettroacustica.md)
   * [Trasduzione](primo-livello-1/101/trasduzione.md)
