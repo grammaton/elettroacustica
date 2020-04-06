@@ -1,25 +1,12 @@
 # Stereofonia
 
-## Getting Super Powers
+Il primo passo necessario verso la comprensione del concetto di \emph{Stereofonia}, per di arrivare alle tecniche ed alle tecnologie elettroacustiche che la rendono possibile, è stabilire attraverso l'etimologia del termine, e dei termini ad esso collegati, una base concettuale solida. \emph{Stereo}, dal greco \emph{Stere\'os}, significa \emph{solido}. Non un numero, non una configurazione ma un aggettivo qualitativo. Nel dizionario inglese Oxford: \emph{Solid, firm and stable in shape. Having three dimensions}. Solido, \emph{solid}, dalla radice latina di \emph{Solidus, Sollus}, intero.
 
-Becoming a super hero is a fairly straight forward process:
+Con la parola \emph{Stereofonia} dovremmo quindi descrivere una condizione nella quale \emph{phon\={e}}, sempre dal greco, \emph{suono}, la \emph{voce}, arrivi all'ascoltatore solida, integra, ferma e stabile nella sua forma \(sonora\) multi dimensionale, intera.
 
-```
-$ give me super-powers
-```
+Indispensabile alla comprensione è anche la descrizione del concetto di \emph{mono}, nomignolo di \emph{monofonico}, espresso nel legame tra \emph{monos} e \emph{phon\={e}}: una voce, \emph{one voice}, \emph{alone}, sola. La stessa parola usata nella descrizione del canto gregoriano ad una voce, successivamente evolutasi nella \emph{polifonia} \(dal greco \emph{poluph\={o}nia}, da \emph{polu}, molte e \emph{phon\={e}}, voci\). Quindi la dicotomia, se proprio deve essercene una, tra monofonia e stereofonia semplicemente non esiste. L'estensione del concetto di monofonia, nel suo eventuale opposto, è polifonia. La stereofonia è semplicemente un concetto altro.
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+Con la parola stereofonia dovremmo descrivere anche la condizione in base alla quale il suono arrivi \emph{solido} all'ascoltatore, \emph{intero, fermo e stabile} nella sua forma sonora multidimensionale originaria, attraverso la riproduzione elettroacustica, attraverso la trasmissione e la diffusione mediante altoparlanti, con un numero qualsiasi, o necessario, di canali. In questo caso, facendo riferimento alla definizione dell'aggettivo \emph{stereofònico}, ci si apre alle tecniche ed alle tecnologie che hanno reso possibile la trasmissione, la riproduzione e la diffusione del suono in stereofonia. Un aggettivo che dovrebbe essere usato con cautela, nella circostanza in cui la riproduzione dei suoni avvenga in modo che l’ascoltatore abbia l’impressione di trovarsi nello spazio sonoro originale o, nel caso non ve ne sia, per sorgenti di natura non acustica, che restituiscano informazioni tali da descrivere una correlazione al sistema percettivo, simile a quella suggerita da sorgenti acustiche.
 
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+Condizioni di ascolto stereofoniche, dal latino \emph{auscultare}, prestare attenzione a qualcosa in quanto oggetto o motivo di informazione, nel caso specifico, informazioni di stereofonia.
 
