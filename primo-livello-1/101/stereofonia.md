@@ -10,3 +10,9 @@ Con la parola stereofonia dovremmo descrivere anche la condizione in base alla q
 
 Condizioni di ascolto stereofoniche, dal latino \emph{auscultare}, prestare attenzione a qualcosa in quanto oggetto o motivo di informazione, nel caso specifico, informazioni di stereofonia.
 
+{% hint style="info" %}
+**Alan Dower Blumlein** - Nato il 29 giugno 1903 a Londra, Deceduto il 7 giugno 1942 a Herefordshire, Inghilterra, fu ingegnere elettronico presso EMI, per la quale pubblicò brevetti per le sue numerose invenzioni nel campo delle telecomunicazioni soprattutto in relazione alle tecnologie di registrazione, trasmissione e diffusione del suono. Ottiene, nella sua breve carriera, 128 brevetti, motivo per cui è considerato uno dei più importanti ingegneri e inventori del suo tempo. Morì durante la seconda guerra mondiale all'età di 38 anni, durante un test militare segreto del sistema radar H2S allora in fase di sviluppo, a bordo del bombardiere Halifax su cui stava volando. Tra le numerose invenzioni legate al nome di Blumlein quelle legate alla Stereofonia stravolsero completamente il mondo della fruizione pubblica del suono. Le sue prime note sull'argomento risalgono al 25 settembre 1931 e il suo brevetto aveva il titolo “Miglioramenti ai, ed in relazione ai, sistemi di trasmissione, registrazione e riproduzione del suono”. La domanda di brevetto fu del 14 dicembre 1931 ed la concessione fu dell 14 giugno 1933, brevetto britannico numero 394.325.
+{% endhint %}
+
+
+
